@@ -1,6 +1,6 @@
 # ILANA Nutrition & Wellness
 
-A responsive nutrition and wellness website built with React, TanStack Start, Vite, and Tailwind CSS.
+Nutrition and wellness - a responsive website built with React, TanStack Start, Vite, and Tailwind CSS.
 
 ## Development
 
