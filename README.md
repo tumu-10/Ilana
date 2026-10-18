@@ -18,3 +18,9 @@ npm test
 npm run lint
 npm run build
 ```
+
+## Deployment
+
+The project uses Netlify's TanStack Start Vite plugin for server-side rendering
+on Netlify. The `netlify.toml` file configures the production build command and
+client asset directory.
