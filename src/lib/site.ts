@@ -8,8 +8,8 @@ import consult from "@/assets/consult.jpg";
 /** Business contact details - edit here to update the whole site. */
 export const CONTACT = {
   phoneDisplay: "0787 519 840",
-  phoneTel: "+254787519840",
-  whatsapp: "254787519840",
+  phoneTel: "+256787519840",
+  whatsapp: "+256787519840",
   email: "jtfrancesca@gmail.com",
 };
 
